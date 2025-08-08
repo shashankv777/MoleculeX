@@ -40,11 +40,4 @@ Authentication (Planned): Firebase or Auth.js
 - UCSC Genome Browser API: Annotates mutations with genomic context.
 - BRCA1 Benchmark Dataset: Used for evaluation and validation.
 
-## Local Setup
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/shashankv777/moleculex.git
-   cd moleculex
 
